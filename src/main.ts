@@ -26,7 +26,7 @@
  * - Average IoU: 83%+
  * - Processing Time: <15ms per image (average)
  * 
- * AUTHOR: Shape Detection Challenge Submission
+ *
  * DATE: November 2025
  */
 
