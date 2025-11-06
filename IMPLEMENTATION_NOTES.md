@@ -214,7 +214,7 @@ This document provides detailed information about the shape detection algorithm 
 - Tested on Chrome, Firefox, Edge
 - Requires ES6+ JavaScript support
 
-## Author Notes
+## 
 
 This implementation prioritizes:
 1. **Robustness**: Multiple fallback strategies for edge cases
